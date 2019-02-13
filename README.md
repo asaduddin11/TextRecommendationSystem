@@ -15,4 +15,9 @@ The two most common types of recommendation systems are: 1. Content based recomm
 
         Content based recommendation systems works on recommending items similar to what the user has liked or shown interest in. It recommends items the user is most likely to like.
 
+
+
 // The above information has been gathered from https://towardsdatascience.com/how-to-build-a-simple-recommender-system-in-python-375093c3fb7d //
+
+
+
